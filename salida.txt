@@ -1,0 +1,19 @@
+Ingrese tantos numeros positivos que desee, separelos precionando el boton 'Ente
+r'. Ponga 0 para finalizar.
+123
+4259
+515426
+12164
+325
+159
+1
+2
+3
+5619
+555
+2132549
+0
+El numero mayor fue: 2132549
+
+Process returned 0 (0x0)   execution time : 14.456 s
+Press any key to continue.
